@@ -1,19 +1,20 @@
-# YouTube_Downloader
+# YouTube Downloader
 # Overview
 
-Project Overview: Mobile application using Kotlin
+Project Overview: Python YouTube downloader with GUI
 
-Description: This project was intended to help me learn how to use Kotlin, and how mobile apps are developed. This is a weather app in which the user inputs their city name (within the US), which the weather app then uses to populate relevant weather information.
+Description: Graphical python application that allows the user to download YouTube videos and audio by providing a URL and download location.
 
-[Software Demo Video](https://youtu.be/3G8aiCqBAA4)
+[Software Demo Video](https://youtu.be/uFkEVMNnzx8)
 
 # Development Environment
 
-Tools: Android Studio, Open Weather Map API
+Tools: Visual Studio, Pytube, Tkinter
 
-Programming Language: Kotlin
+Programming Language: Python
 
 # Useful Websites
 
 * https://www.pythontutorial.net/tkinter/
 * [Tkinter Beginner Course - Python GUI Development](https://www.youtube.com/watch?v=ibf5cx221hk)
+* [YouTube Downloader in Python](https://www.youtube.com/watch?v=h3-naWSga9I)
